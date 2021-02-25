@@ -4,7 +4,7 @@ id integer unsigned primary key,
 pais varchar(50)not null
 );
 
-insert into pais values('0','DESCONOCIDO');
+insert into pais values('0','DESCONOCIDO')
 insert into pais values('1','ARGENTINA');
 insert into pais values('2','BOLIVIA');
 insert into pais values('3','BRASIL');
